@@ -9,7 +9,10 @@ disableComments: true
 
 Bale heto na nga po, ikakasal na po kami yahoooo!
 
-##  Address
+## When
+**July 17, 2022 @ 4PM**
+
+##  Where
 **Mountain Creek Resort, 200 Route 94 Vernon, NJ 07462**
 
 ## Ceremony
