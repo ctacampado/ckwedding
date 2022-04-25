@@ -1,21 +1,35 @@
 ---
-title: 'You are invited!'
+title: 'Carl & Kyera Wedding'
 date: 2022-04-23T07:48:32+08:00
-slug: 'post1'
+slug: 'main'
 image: 'images/dumbo.jpg'
-description: 'Bale heto na nga ho ano. Ikakasal na po kami at iniimbitahan namin kayo!'
+description: 'Mountain Creek Resort, New Jersey'
 disableComments: true
 ---
 
-## VENUE ADDRESS
-***Mountain Creek Resort***, 200 Route 94 Vernon, NJ 07462
+Bale heto na nga po, ikakasal na po kami yahoooo!
+
+##  Address
+**Mountain Creek Resort, 200 Route 94 Vernon, NJ 07462**
 
 ## Ceremony
-Mountaintop, ***Mountain Creek Resort***
+**Mountain-top, Mountain Creek Resort**
 
 ## Reception
-Red Tail Lodge (Hawk's Nest), ***Mountain Creek Resort***
+**Red Tail Lodge (Hawk's Nest), Mountain Creek Resort**
 
-See you!
+---
+## Gifts
+***We ask only of your love and presence but if a present is your desire, we would be honored with a cash gift to help us save for our new home! Much love and thanks!***
+
+---
+## More Information
+###  [[ Venue ]](https://carl-kyera-wedding.netlify.app/post/venue/)
+
+### [[ Attire ]](https://carl-kyera-wedding.netlify.app/post/attire/)
+
+###  [[ Program ]](https://carl-kyera-wedding.netlify.app/post/program/)
+
+###  [[ Prayer Requests] ](https://carl-kyera-wedding.netlify.app/post/prayers/)
 
 ---
