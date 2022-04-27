@@ -30,19 +30,30 @@ disableComments: true
 - ***LYN AND CARLO BUENA***
 - ***CLARISSA AND JOHN NAVE***
 - ***NORA SANCHEZ***
-- ***MARIA GRETHEL DELA VEGA***
+- ***MARIA GRETHEL DELMO***
+
+### Matron of Honor
+***ALELI ANGELES-YLAGAN***
 
 ### Bridesmaids
+- ***CHRISTINE BUENA***
+- ***CHLOE DELA VEGA***
+- ***TING-YUN JUAN***
 
-***TO FOLLOW***
-
+### Best Man
+***CAVIAR ACAMPADO***
 ### Groomsmen
 - ***JOGGY YLAGAN***
 - ***JUDE YLAGAN***
+- ***KEVIN DELA VEGA***
 
-### Bridal Entry
+### Flower Girls
+- ***IVY***
+- ***ARYA***
 
-***TO FOLLOW***
+### Signs
+- ***COOPER***
+- ***JAIDEN***
 
 ### Officiant
 
