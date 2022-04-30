@@ -29,6 +29,7 @@ disableComments: true
 ### Sponsors
 - ***LYN AND CARLO BUENA***
 - ***CLARISSA AND JOHN NAVE***
+- ***CHEANNE AND JEFF YLAGAN***
 - ***NORA SANCHEZ***
 - ***MARIA GRETHEL DELMO***
 
@@ -46,6 +47,9 @@ disableComments: true
 - ***JOGGY YLAGAN***
 - ***JUDE YLAGAN***
 - ***KEVIN DELA VEGA***
+
+### Ring Bearer
+- ***CHANCE***
 
 ### Flower Girls
 - ***IVY***
